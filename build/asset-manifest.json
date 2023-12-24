@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pixabay-image-finder/static/css/main.e6c13ad2.css",
+    "main.js": "/Pixabay-image-finder/static/js/main.9dcdea46.js",
+    "static/js/787.855448df.chunk.js": "/Pixabay-image-finder/static/js/787.855448df.chunk.js",
+    "index.html": "/Pixabay-image-finder/index.html",
+    "main.e6c13ad2.css.map": "/Pixabay-image-finder/static/css/main.e6c13ad2.css.map",
+    "main.9dcdea46.js.map": "/Pixabay-image-finder/static/js/main.9dcdea46.js.map",
+    "787.855448df.chunk.js.map": "/Pixabay-image-finder/static/js/787.855448df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9dcdea46.js"
+  ]
+}
